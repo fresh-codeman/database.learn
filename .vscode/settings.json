@@ -1,0 +1,13 @@
+{
+  "pasteImage.path": "${projectRoot}/assets/images",
+  "pasteImage.basePath": "${projectRoot}",
+  "pasteImage.forceUnixStyleSeparator": true,
+  "pasteImage.prefix": "/",
+  "launch": {
+    "configurations": [],
+    "compounds": []
+  },
+  "rubyLsp.rubyVersionManager": {
+    "identifier": "rbenv"
+  }
+}
